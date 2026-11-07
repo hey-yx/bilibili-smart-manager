@@ -14,7 +14,7 @@
     "bookmark-manager"
   ],
   "author": "",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "type": "module",
   "dependencies": {
     "react": "^18.2.0",
